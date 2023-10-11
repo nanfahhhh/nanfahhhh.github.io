@@ -5,5 +5,5 @@
 + Full name (TH) : วิไลวรรณ วงค์คำใหญ่
 * Nickname : พลอย
 - Guest : พี่แมน
-- Quality Attributes
-    -chatGPT :
+- compatibility
+    -chatGPT  :
