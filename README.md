@@ -6,4 +6,4 @@
 * Nickname : พลอย
 - Guest : พี่แมน
 - Quality Attributes
-    chatGPT :
+    -chatGPT :
