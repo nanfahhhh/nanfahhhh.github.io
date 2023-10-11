@@ -6,4 +6,4 @@
 * Nickname : พลอย
 - Guest : พี่แมน
 - compatibility
-    -chatGPT  :
+  *ChatGPT :
