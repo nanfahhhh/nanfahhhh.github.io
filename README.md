@@ -21,3 +21,5 @@
 
 
   * Google Bard :
+
+ - สรุปQuality attributes : compatibility
