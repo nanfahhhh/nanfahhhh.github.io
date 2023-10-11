@@ -4,4 +4,5 @@
 # full name (Eng): Wilaiwan Wongkumyai
 # Full name (TH) : วิไลวรรณ วงค์คำใหญ่
 # Nickname : พลอย
-# Guest : พี่ขวด
+# Guest : พี่แมน
+# Quality Attributes
